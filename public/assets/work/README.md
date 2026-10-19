@@ -1,0 +1,1 @@
+Place approved project images and BeReal externship documents here. Then add their relative paths to the relevant projects[].files array in public/site-config.js. Thought GPS is presented as experience and does not require work uploads. See ADD-YOUR-WORK.md in the project root.

@@ -1,0 +1,16 @@
+{
+  "name": "giovanni-purple-portfolio-v23",
+  "version": "23.0.0",
+  "private": true,
+  "description": "Giovanni Castelblanco \u2014 design, development, and product portfolio",
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "start": "node scripts/dev.mjs",
+    "check": "node scripts/check.mjs",
+    "build": "node scripts/check.mjs"
+  }
+}
